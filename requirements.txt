@@ -1,0 +1,5 @@
+Gunicorn
+Flask
+pymongo
+language_tool_python
+nltk
